@@ -28,3 +28,6 @@ int print_last_digit(int);
 
 /* 8 */
 void jack_bauer(void);
+
+/* 9 */
+void times_table(void);
