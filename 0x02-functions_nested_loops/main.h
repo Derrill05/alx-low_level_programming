@@ -4,3 +4,6 @@
 
 /* 0 */
 int _putchar(char c);
+
+/* 1 */
+void print_alphabet(void);
