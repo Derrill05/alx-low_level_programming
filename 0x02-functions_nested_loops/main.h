@@ -22,3 +22,6 @@ int print_sign(int n);
 
 /* 6 */
 int _abs(int);
+
+/* 7 */
+int print_last_digit(int);
